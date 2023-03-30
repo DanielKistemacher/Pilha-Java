@@ -1,6 +1,6 @@
 # Pilhas em JAVA
 
-![preview_readme](./src/readme.png)
+![preview_readme](./readme.png)
 > Pilha
 
 🔋 Projeto criado para exercitar HTML, CSS e Javascript 🔋
