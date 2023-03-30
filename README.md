@@ -3,7 +3,7 @@
 ![preview_readme](./readme.png)
 > Pilha
 
-🔋 Projeto criado para exercitar HTML, CSS e Javascript 🔋
+🔋 Projeto criado para atividade acadêmica 🔋
 
 [🔗 Clique aqui para acessar.](https://danielkistemacher.github.io/Pilha-Java/)
 
